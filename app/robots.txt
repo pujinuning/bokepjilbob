@@ -2,4 +2,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepjilbob.pages.dev/sitemap.xml
